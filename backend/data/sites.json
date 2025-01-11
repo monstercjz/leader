@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1736551172003",
+    "name": "1",
+    "url": "http://google.com",
+    "group": "",
+    "icon": "/path/to/default/icon.png"
+  },
+  {
+    "id": "1736553709783",
+    "name": "1",
+    "url": "http://www.baidu.com",
+    "group": "",
+    "icon": "G:\\leader\\backend\\data\\icons\\baidu.com.ico"
+  },
+  {
+    "id": "1736554371793",
+    "name": "2",
+    "url": "www.baidu.com",
+    "group": "",
+    "icon": "G:\\leader\\backend\\data\\icons\\baidu.com.ico"
+  },
+  {
+    "id": "1736554974366",
+    "name": "1",
+    "url": "http://google.com",
+    "group": "",
+    "icon": "/path/to/default/icon.png"
+  }
+]
